@@ -13,3 +13,5 @@ Through an interactive interface and clickable flashcards, users can view each w
 3. CSS
 4. HTML
 
+License:
+This project is licensed under the MIT License.
