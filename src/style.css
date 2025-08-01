@@ -1,0 +1,41 @@
+* {
+  box-sizing: "boreder-box";
+}
+
+body {
+  background-color: #ddcdb9ff;
+  font-family: "sens-serif";
+  font-size: 2.5rem;
+  padding: 20px;
+}
+
+h1 {
+  color: #4e0202ff;
+  font-family: sens-serif;
+  font-size: 4.5rem;
+}
+
+.flashcards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 40px;
+}
+
+.flashcards div {
+  background-color: #c40d0dff;
+  color: #ffffff;
+  boreder-redius: 50px;
+  aspect-retio: 2/1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 50px;
+  cursor: pointer;
+}
+
+div.selected {
+  background-color: #69e007ff;
+  color: #000000;
+  font-weight: bold;
+}
