@@ -17,4 +17,5 @@ License:
 This project is licensed under the MIT License.
 
 New Update on Aug 2:
-Adding Korean translations of words.
+1. Adding Korean translations of words.
+2. Creating responsiveness.
