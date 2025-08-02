@@ -4,6 +4,12 @@
   }
 }
 
+@media (min-weight: 1024px){
+  .flashcards{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 * {
   box-sizing: "boreder-box";
 }
@@ -45,4 +51,5 @@ div.selected {
   color: #000000;
   font-weight: bold;
 }
+
 
