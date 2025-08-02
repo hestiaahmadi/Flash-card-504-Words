@@ -27,7 +27,7 @@ h1 {
   gap: 40px;
 }
 
-.words {
+.flashcards {
   font-size: 16px;
   transition: none;
 }
@@ -50,6 +50,7 @@ div.selected {
   color: #000000;
   font-weight: bold;
 }
+
 
 
 
