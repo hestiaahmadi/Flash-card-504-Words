@@ -1,3 +1,9 @@
+@media (min-weight: 640px) {
+  .flashcards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 * {
   box-sizing: "boreder-box";
 }
@@ -39,3 +45,4 @@ div.selected {
   color: #000000;
   font-weight: bold;
 }
+
