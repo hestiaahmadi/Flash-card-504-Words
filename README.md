@@ -15,3 +15,6 @@ Through an interactive interface and clickable flashcards, users can view each w
 
 License:
 This project is licensed under the MIT License.
+
+New Update on Aug 2:
+Adding Korean translations of words.
