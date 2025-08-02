@@ -16,6 +16,6 @@ Through an interactive interface and clickable flashcards, users can view each w
 License:
 This project is licensed under the MIT License.
 
-The new update was released on August 2:
+📢 The new update was released on August 2:
 1. Adding Korean translations of words.
 2. Creating responsiveness.
