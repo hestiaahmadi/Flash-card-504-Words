@@ -18,7 +18,7 @@ body {
 h1 {
   color: #4e0202ff;
   font-family: sens-serif;
-  font-size: 4.5rem;
+  font-size: 1.5rem;
 }
 
 .flashcards {
@@ -50,6 +50,7 @@ div.selected {
   color: #000000;
   font-weight: bold;
 }
+
 
 
 
