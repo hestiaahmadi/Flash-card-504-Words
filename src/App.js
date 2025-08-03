@@ -6,72 +6,84 @@ const words = [
     english: "Abandon",
     persian: "ترک کردن",
     korean: "버리다",
+    spanish: "Abandonar",
     id: "1",
   },
   {
     english: "Keen",
     persian: "تیز، مشتاق",
     korean: "날카로운",
+    spanish: "Interesada",
     id: "2",
   },
   {
     english: "Jealous",
     persian: "حسود",
     korean: "질투하는",
+    spanish: "celosa",
     id: "3",
   },
   {
     english: "Tact",
     persian: "تدبیر، درایت",
      korean: "재치",
+    spanish: "tacto",
     id: "4",
   },
   {
     english: "Oath",
     persian: "سوگند، دشنام",
     korean: "맹세",
+    spanish: "juramento",
     id: "5",
   },
   {
     english: "Vacant",
     persian: "خالی، اشغال نشده",
     korean: "빈",
+    spanish: "vacante",
     id: "6",
   },
   {
     english: "Hardship",
     persian: "بی نوایی، سختی",
     korean: "고난",
+    spanish: "privación",
     id: "7",
   },
   {
     english: "Gallant",
     persian: "شجاع، جنتلمن",
     korean: "용감한",
+    spanish: "galante",
     id: "8",
   },
   {
     english: "Data",
     persian: "اطلاعات، داده ها",
     korean: "데이터",
+    spanish: "datos",
     id: "9",
   },
   {
     english: "Unccustomed",
     persian: "غیر عادی، عادت نداشتن",
     korean: "예사롭지 않은",
+    spanish: "no acostumbrado",
     id: "10",
   },
   {
     english: "Bachelor",
     persian: "مرد مجرد، عزب",
     korean: "미혼 남자",
+    spanish: "bachiller",
     id: "11",
   },
   {
     english: "Qulify",
     persian: "واجد شرایط شدن",
     korean: "자격을 얻다",
+    spanish: "calificar",
     id: "12",
   },
 ];
@@ -99,10 +111,11 @@ function FlashCards() {
           onClick={() => handleClick(word.id)}
           className={word.id === selectedId ? "selected" : ""}
         >
-          <p>{word.id === selectedId ? word.korean : word.english}</p>
+          <p>{word.id === selectedId ? word.spanish : word.english}</p>
         </div>
       ))}
     </div>
   );
 }
+
 
