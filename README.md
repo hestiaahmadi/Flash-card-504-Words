@@ -19,3 +19,6 @@ This project is licensed under the MIT License.
 📢 The new update was released on August 2:
 1. Adding Korean translations of words.
 2. Creating responsiveness.
+
+📢 The new update was released on August 3:
+ Adding Spanish translations of words.
