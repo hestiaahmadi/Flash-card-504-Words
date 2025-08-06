@@ -35,18 +35,14 @@ h1 {
 .flashcards div {
   background-color: #a10303ff;
   color: #ffffff;
-  width: 200px;
-  height: 100px;
+  boreder-redius: 50px;
+  aspect-retio: 2/1;
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid;
-  transition: all 0.3s ease;
-}
-
-.flashcards div p {
   text-align: center;
-  margin: 0;
+  padding: 50px;
+  cursor: pointer;
 }
 
 div.selected {
@@ -56,6 +52,7 @@ div.selected {
   font-weight: bold;
   padding: 50px;
 }
+
 
 
 
