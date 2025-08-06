@@ -28,12 +28,12 @@ h1 {
 }
 
 .flashcards {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   transition: none;
 }
 
 .flashcards div {
-  background-color: #c40d0dff;
+  background-color: #a10303ff;
   color: #ffffff;
   boreder-redius: 50px;
   aspect-retio: 2/1;
@@ -50,6 +50,7 @@ div.selected {
   color: #000000;
   font-weight: bold;
 }
+
 
 
 
