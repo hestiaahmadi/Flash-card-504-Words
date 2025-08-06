@@ -24,7 +24,7 @@ h1 {
 .flashcards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 0.5px;
+  gap: 40px;
 }
 
 .flashcards {
@@ -50,6 +50,7 @@ div.selected {
   color: #000000;
   font-weight: bold;
 }
+
 
 
 
