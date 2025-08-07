@@ -181,6 +181,7 @@ function FlashCards() {
       {/*menu*/}
       <label>
         <select
+          className="languages"
           value={targetLanguage}
           onChange={(e) => setTargetLanguage(e.target.value)}
         >
@@ -217,5 +218,4 @@ function FlashCards() {
     </div>
   );
 }
-
 
