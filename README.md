@@ -22,3 +22,7 @@ This project is licensed under the MIT License.
 
 📢 The new update was released on August 3:
  Adding Spanish translations of words.
+
+📢 The new update was released on August 3:
+1. Adding a button for selecting the desired language.
+2. adding support for Hindi, Arabic, Bengali, Russian, Portuguese, and Urdu languages.
