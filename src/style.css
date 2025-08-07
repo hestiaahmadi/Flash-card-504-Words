@@ -11,7 +11,7 @@
 body {
   background-color: #ddcdb9ff;
   font-family: "sens-serif";
-  font-size: 2.5rem;
+  font-size: 1rem;
   padding: 20px;
 }
 
@@ -24,12 +24,21 @@ h1 {
 .flashcards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 40px;
+  gap: 0.5rem;
 }
 
 .flashcards {
   font-size: 1.7rem;
   transition: none;
+}
+
+.changeLanguage {
+  background-color: "#340000ff";
+  color: "#e1ccccff";
+  font-size: 1.5rem;
+  weight: 10px;
+  height: 50px;
+  boreder-redius: 100px;
 }
 
 .flashcards div {
@@ -45,16 +54,32 @@ h1 {
   cursor: pointer;
 }
 
+.flashcards .translation {
+  font-size: 15px;
+  color: #555;
+  margin-top: 6px;
+}
+
 div.selected {
   background-color: #69e007ff;
   color: #000000;
-  font-size: 1.7rem;
   font-weight: bold;
+  font-size: 1.7rem;
   padding: 50px;
 }
 
+label {
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: block;
+}
 
-
+select {
+  margin-left: 8px;
+  padding: 4px 8px;
+  font-size: 16px;
+  border-radius: 4px;
+}
 
 
 
