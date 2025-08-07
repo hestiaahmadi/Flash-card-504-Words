@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  color: #4e0202ff;
+  color: #790606ff;
   font-family: sens-serif;
   font-size: 2rem;
 }
@@ -32,15 +32,6 @@ h1 {
   transition: none;
 }
 
-.changeLanguage {
-  background-color: "#340000ff";
-  color: "#e1ccccff";
-  font-size: 1.5rem;
-  weight: 10px;
-  height: 50px;
-  boreder-redius: 100px;
-}
-
 .flashcards div {
   background-color: #a10303ff;
   color: #ffffff;
@@ -54,12 +45,6 @@ h1 {
   cursor: pointer;
 }
 
-.flashcards .translation {
-  font-size: 15px;
-  color: #555;
-  margin-top: 6px;
-}
-
 div.selected {
   background-color: #69e007ff;
   color: #000000;
@@ -68,7 +53,13 @@ div.selected {
   padding: 50px;
 }
 
-label {
+.languages {
+  background-color: #ccb395ff;
+  color: #000000ff;
+  border-redius: 100px;
+}
+
+. label {
   font-weight: bold;
   margin-bottom: 10px;
   display: block;
@@ -80,10 +71,6 @@ select {
   font-size: 16px;
   border-radius: 4px;
 }
-
-
-
-
 
 
 
