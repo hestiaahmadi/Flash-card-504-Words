@@ -26,3 +26,10 @@ This project is licensed under the MIT License.
 📢 The new update was released on August 3:
 1. Adding a button for selecting the desired language.
 2. adding support for Hindi, Arabic, Bengali, Russian, Portuguese, and Urdu languages.
+
+📢 The new update was released on August 5:
+1. Adding a button for selecting the lessons.
+2. Adding lesson 2.
+
+📢 The new update was released on August 17:
+1. Adding lessons from 3 to 5.
