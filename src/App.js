@@ -35,6 +35,11 @@ function FlashCards() {
           <option value="spanish">Spanish</option>
           <option value="french">French</option>
           <option value="arabic">Arabic</option>
+          <option value="example1">Example English</option>
+          <option value="example2">Example Chinese</option>
+          <option value="example3">Example Spanish</option>
+          <option value="example4">Example French</option>
+          <option value="example5">Example Arabic</option>
         </select>
       </label>
 
@@ -76,5 +81,6 @@ function FlashCards() {
     </div>
   );
 }
+
 
 
