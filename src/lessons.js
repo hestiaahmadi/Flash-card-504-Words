@@ -57,10 +57,15 @@ export const lessons = [
       },
       {
         english: "Oath",
+        example1: "He took an oath to tell the truth.",
         chinese: "誓言",
+        example2: "他宣誓要说实话",
         spanish: "Juramento",
+        example3: "Él juró decir la verdad",
         french: "Serment",
+        example4: "Il a prêté serment de dire la vérité",
         arabic: "قَسَم",
+        example5: "أَدَّى قَسَمًا لِيَقُولَ الحَقَّ",
         id: "1-5",
       },
       {
@@ -734,5 +739,6 @@ export const lessons = [
     ],
   },
 ];
+
 
 
