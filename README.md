@@ -33,3 +33,6 @@ This project is licensed under the MIT License.
 
 📢 The new update was released on August 17:
 1. Adding lessons from 3 to 5.
+
+📢 The new update was released on August 20:
+1. Adding Examples for every Language.
